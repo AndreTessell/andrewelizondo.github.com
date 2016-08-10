@@ -5,9 +5,6 @@ permalink: /about/
 tags: about
 ---
 
-Hi! I'm Andre.
+Hi! I'm Andre. I'm a Technical Evangelist at Chef living in Seattle, WA (queue the rain jokes).
 
-![me](https://avatars1.githubusercontent.com/u/6732897?v=3&s=200)
-
-* [GitHub](https://github.com/andrewelizondo)
-* [LinkedIn](https://https://www.linkedin.com/in/andre-elizondo-94a66a52)
+In my time at Chef I've had the opportunity to help make Chef awesome for new users, working with partners on creating integrations, and help to make sure we make an amazing experience as we release new products to our customers. 

@@ -7,7 +7,7 @@ tags: about
 
 Hi! I'm Andre.
 
-![me](https://avatars1.githubusercontent.com/u/6732897?v=3&s=400)
+![me](https://avatars1.githubusercontent.com/u/6732897?v=3&s=200)
 
 * [GitHub](https://github.com/andrewelizondo)
 * [LinkedIn](https://https://www.linkedin.com/in/andre-elizondo-94a66a52)
